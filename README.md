@@ -7,3 +7,4 @@ Works ONGOING~~~
 1. Basic ML models:
     * [Basic Classification](https://github.com/zhangjh915/TensorFlow-Learning/blob/master/01_Basic_Classification.ipynb)
     * [Text Classification](https://github.com/zhangjh915/TensorFlow-Learning/blob/master/02_Text_Classification.ipynb)
+    * [Regression](https://github.com/zhangjh915/TensorFlow-Learning/blob/master/03_Regression.ipynb)
