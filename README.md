@@ -4,9 +4,11 @@ There are Jupyter Notebooks including simple to complicated problems and models 
 
 ## Notebook List:
 Works ONGOING~~~
-1. Basic ML models:
+1. Basic ML models using Keras API in TensorFlow:
     * [Basic Classification](https://github.com/zhangjh915/TensorFlow-Learning/blob/master/01_Basic_Classification.ipynb)
     * [Text Classification](https://github.com/zhangjh915/TensorFlow-Learning/blob/master/02_Text_Classification.ipynb)
     * [Regression](https://github.com/zhangjh915/TensorFlow-Learning/blob/master/03_Regression.ipynb)
     * [Underfit and Overfit](https://github.com/zhangjh915/TensorFlow-Learning/blob/master/04_Underfit_and_Overfit.ipynb)
     * [Save and Restore Model](https://github.com/zhangjh915/TensorFlow-Learning/blob/master/05_Save_and_Restore_Model.ipynb)
+2. TensorFlow basics and customer model construction:
+    * [Eager Execution](https://github.com/zhangjh915/TensorFlow-Learning/blob/master/06_Eager_Execution.ipynb)
