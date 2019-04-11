@@ -12,3 +12,4 @@ Works ONGOING~~~
     * [Save and Restore Model](https://github.com/zhangjh915/TensorFlow-Learning/blob/master/05_Save_and_Restore_Model.ipynb)
 2. TensorFlow basics and customer model construction:
     * [Eager Execution](https://github.com/zhangjh915/TensorFlow-Learning/blob/master/06_Eager_Execution.ipynb)
+    * [Customer Model](https://github.com/zhangjh915/TensorFlow-Learning/blob/master/07_Customer_Model.ipynb)
